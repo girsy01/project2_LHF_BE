@@ -1,14 +1,14 @@
 {
-  "projects": [
+  "user": [
     {
       "id": 1,
-      "title": "Module 2 Project",
+      "user_name": "hernani",
       "description": "Module 2 project - Integrate a React app with backend.",
       "userId": 1
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
+      "user_name": "joao",
       "description": "Create a full-stack application using MERN stack.",
       "userId": 1
     }
