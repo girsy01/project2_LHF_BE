@@ -3,9 +3,7 @@
     {
       "id": 1,
       "user_name": "Hernâni",
-      "password": "Higlanders9",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1,
+      "password": "Higlanders9",      
       "movies": [],
       "books": [],
       "music": [],
@@ -14,9 +12,7 @@
     {
       "id": 2,
       "user_name": "Luke",
-      "password": 123,
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1,
+      "password": 123,      
       "movies": [],
       "books": [],
       "music": [],
