@@ -2,32 +2,34 @@
   "user": [
     {
       "id": 1,
-      "user_name": "hernani",
+      "user_name": "Hernâni",
+      "password": "Higlanders9",
       "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "userId": 1,
+      "movies": [],
+      "books": [],
+      "music": [],
+      "events": []
     },
     {
       "id": 2,
-      "user_name": "joao",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "user_name": "Luke",
+      "password": 123,
+      "description": "Module 2 project - Integrate a React app with backend.",
+      "userId": 1,
+      "movies": [],
+      "books": [],
+      "music": [],
+      "events": []
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "user_name": "Franzi",
+      "password": 123,
+      "movies": [],
+      "books": [],
+      "music": [],
+      "events": []
     }
   ]
 }
