@@ -3,7 +3,7 @@
     {
       "id": 1,
       "user_name": "Hernâni",
-      "password": "Higlanders9",      
+      "password": "Higlanders9",
       "movies": [],
       "books": [],
       "music": [],
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "user_name": "Luke",
-      "password": 123,      
+      "password": 123,
       "movies": [],
       "books": [],
       "music": [],
