@@ -126,7 +126,8 @@
       "movies": [],
       "books": [],
       "music": [],
-      "events": []
+      "events": [],
+      "image_url": "http://res.cloudinary.com/dj6l8ij7d/image/upload/v1733563654/sqanh8fx8ndx6493wfvd.jpg"
     }
   ]
 }
