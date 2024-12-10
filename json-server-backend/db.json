@@ -6,6 +6,7 @@
       "password": "Higlanders9",
       "movies": [
         {
+          "id": 1,
           "title": "The Matrix",
           "year": 1999,
           "cover": "https://i.pinimg.com/736x/01/fd/98/01fd9847e3bf83bc01f7f59ff2ee50ca.jpg",
@@ -13,6 +14,7 @@
           "notes": "Great Movie"
         },
         {
+          "id": 2,
           "title": "Jumanji",
           "year": 2017,
           "cover": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/0d/Jumanji_The_Next_Level.jpg/240px-Jumanji_The_Next_Level.jpg",
